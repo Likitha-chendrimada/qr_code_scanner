@@ -1,16 +1,21 @@
-# qr_app
+** QR CODE APP **
 
-A new Flutter project.
+This app lets you instantly scan any QR code and automatically open URLs, websites, or embedded data with a smooth camera interface.
 
-## Getting Started
+It also includes a QR Code Generator, allowing you to create QR codes simply by typing any text or URL.
 
-This project is a starting point for a Flutter application.
+🔍 Key Features:
 
-A few resources to get you started if this is your first Flutter project:
+✔️ Real-time QR code scanning
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✔️ Auto-open scanned URLs
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✔️ Camera flip + flashlight controls
+
+✔️ Clean & responsive UI
+
+✔️ QR code generator with live preview
+
+✔️ Copy/share options
+
+✔️ Entire project built in Flutter
